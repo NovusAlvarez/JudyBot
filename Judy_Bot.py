@@ -1,6 +1,6 @@
 import telebot;
 from telebot import types
-bot = telebot.TeleBot('5347302444:AAG2Rkty0zW0bxAVP9Tc7ttlNsY4_YR7MFU');
+bot = telebot.TeleBot('WEE-WEE');
 
 name = '';
 surname = '';
